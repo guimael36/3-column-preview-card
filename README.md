@@ -1,4 +1,4 @@
-# Frontend Mentor - 3-column preview card component
+## Frontend Mentor - 3 Column Preview Card
 
 Desafio do Frontend Mentor realizado utilizando HTML e CSS Flexbox.
 
